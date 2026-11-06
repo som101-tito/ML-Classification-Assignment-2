@@ -36,7 +36,7 @@ with random_state=42.
 
 ## 3. GitHub Repository Link
 
-To be added after repository creation.
+https://github.com/som101-tito/ML-Classification-Assignment-2
 
 ## 4. Machine Learning Models
 
@@ -145,7 +145,7 @@ classification model to view its results.
 
 ## 10. Streamlit Deployment Link
 
-To be added after deployment.
+https://ml-classification-assignment-2-kt7xhtd5hbzwnmaycexyvu.streamlit.app
 
 ## 11. Execution Environment
 
